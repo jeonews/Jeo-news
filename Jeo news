@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+  <meta charset="UTF-8">
+  <title>پاکستان نیوز اینڈ ڈیلی نیوز</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="margin:0; font-family:Arial; direction:rtl; background:#f4f4f4;">
+
+  <!-- Header -->
+  <header style="background:#006400; color:white; padding:20px; text-align:center;">
+    <h1>پاکستان نیوز اینڈ ڈیلی نیوز</h1>
+    <p>پاکستان اور دنیا کی تازہ ترین خبریں</p>
+  </header>
+
+  <!-- Navigation -->
+  <nav style="background:#004d00; padding:10px; text-align:center;">
+    <a href="#" style="color:white; margin:0 10px; text-decoration:none;">ہوم</a>
+    <a href="#" style="color:white; margin:0 10px; text-decoration:none;">پاکستان</a>
+    <a href="#" style="color:white; margin:0 10px; text-decoration:none;">سیاست</a>
+    <a href="#" style="color:white; margin:0 10px; text-decoration:none;">کھیل</a>
+    <a href="#" style="color:white; margin:0 10px; text-decoration:none;">کاروبار</a>
+  </nav>
+
+  <!-- Main Content -->
+  <main style="padding:20px;">
+
+    <!-- News Card 1 -->
+    <div style="background:white; padding:15px; margin-bottom:15px; border-radius:5px;">
+      <h2>اہم خبر: پاکستان</h2>
+      <p>
+        یہ پاکستان کی تازہ ترین اہم خبر ہے۔ یہاں روزانہ ملکی اور بین الاقوامی خبریں شائع کی جائیں گی۔
+      </p>
+    </div>
+
+    <!-- News Card 2 -->
+    <div style="background:white; padding:15px; margin-bottom:15px; border-radius:5px;">
+      <h2>سیاسی خبریں</h2>
+      <p>
+        ملکی سیاست سے متعلق تمام اہم خبریں اور تجزیے یہاں دستیاب ہوں گے۔
+      </p
